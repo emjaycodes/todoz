@@ -5,5 +5,4 @@ The aim of this project is to explore the hive tool and understand it.
 
 ## OUTPUT
 
-## 0utput
 ![](https://github.com/emjaycodes/todoz/blob/master/todo.gif)
